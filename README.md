@@ -1,2 +1,2 @@
 # cs3240
-cs3240 portfolio website
+Link to website: https://amzhy.github.io/cs3240/
